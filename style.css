@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    box-shadow: 100px 100px 100px solid red;
+    text-align: center;
+}
+.copy_right_footer{
+    position: fixed;
+    float: bottom;
+    text-align: center;
+    font-weight: bold;
+    padding: auto;
+    margin: auto;
+    border-color: cyan;
+    background-color: lime;
+    color: red;
+    width: 100%;
+    font-size: 30px;
+}
+canvas{
+    box-shadow: 5px 5px 5px solid red;
+}
